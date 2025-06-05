@@ -37,6 +37,7 @@ A oficina está dividida em três módulos:
 | `notebooks/`                     | Jupyter Notebooks com exemplos e exercícios práticos |
 | `slides/`                        | Slides da apresentação em formato PDF |
 | `exercicios/`                    | Lista de exercícios propostos com e sem gabarito |
+| `exemplos/`                      | Exemplos usados na Oficina |
 | `README.md`                      | Este arquivo |
 
 ## Pré-requisitos
