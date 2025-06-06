@@ -61,4 +61,4 @@ Este conteúdo é distribuído sob a licença [Creative Commons Attribution 4.0 
 
 Rodrigo Fernandes dos Santos  
 Pesquisador e professor na área de Ciência da Informação  
-[E-mail profissional ou perfil acadêmico opcional]  
+rodrygofsantos@gmail.com 
